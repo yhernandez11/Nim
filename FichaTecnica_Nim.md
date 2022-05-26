@@ -31,4 +31,5 @@ State of the DApps,
 cvebase.
 
 Historia: El desarrollo inicial de Nim se inició en 2005 por Andreas Rumpf. Originalmente se llamó Nimrod cuando el proyecto se hizo público en 2008. La primera versión del compilador Nim se escribió en Pascal utilizando el compilador Free Pascal. En 2008, se lanzó una versión del compilador escrita en Nim. El compilador es un software gratuito y de código abierto, y está siendo desarrollado por una comunidad de voluntarios que trabajan con Andreas Rumpf. El lenguaje pasó a llamarse oficialmente de Nimrod a Nim con el lanzamiento de la versión 0.10.2 en diciembre de 2014. El 23 de septiembre de 2019, se lanzó la versión 1.0.0 de Nim, lo que significa la madurez del lenguaje y su cadena de herramientas.
+
 Estado: Activo.
